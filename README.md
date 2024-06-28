@@ -47,6 +47,12 @@ The project uses a star schema with the following tables:
 - **Performance Comparison**: Visual comparisons of actual sales against budgeted targets for 2021.
 - **Historical Trends**: Analysis of sales data over the past four years (from 2019).
 
+## Final Insights
+- **Customer Contribution**: 20% of our customers are responsible for 60% of our overall sales, with all these customers located in Europe.
+
+- **Product Category Profits**: The profits from accessories and clothing have significantly increased year over year, now contributing 7% to our overall sales.
+
+- **Seasonal Sales Trend**: Sales peak in December, surpassing those of any other month.
 
 
 
